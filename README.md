@@ -9,3 +9,4 @@
 - Numpy
 - Matplotlib
 - Scipy
+- Networkx
