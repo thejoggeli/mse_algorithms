@@ -227,6 +227,9 @@ class OptimizGrid:
         return path
     
     def pilot_search(self, start=(0,0)):
+
+
+        
         return []
 
     def draw(self, path=None):

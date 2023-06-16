@@ -13,6 +13,7 @@ class Node:
         self.relatives = [] # all neighbours
         self.parents = [] # only neighbours from incoming edges (arrow pointing towards node)
         self.children = [] # only neighbours from outgoing edges (arrow pointing away from node)
+        self.data = {}
 
         # used for dijkstra
         self.pi = None 
